@@ -3,7 +3,7 @@
 import { program } from "commander";
 import open from "open";
 
-const BLOCKTORCH_DEBUGGER_URL = 'https://app.blocktorch.xyz/explorer/afdd126c-d4aa-4d08-9f7e-65b89fbc04bd/0x0ee6fb0f64da3432429a1500122c1b59c50db1bb2da6dcb9c527fd02722639d6?type=transaction&debugger=open';
+const BLOCKTORCH_DEBUGGER_URL = 'https://blocktorch-pixx0804l-blocktorch.vercel.app/explorer/a6b7b927-934f-4f93-b504-864da065bc0c/0x762583066127e123938aaef11097220efa137a49f836ae98d3b78d8c9fa86a72?type=transaction&debugger=open';
 
 program
   .version("1.0.0")
