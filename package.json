@@ -1,0 +1,33 @@
+{
+  "name": "@blocktorch/debugger",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "bin": {
+    "bt-debug": "./index.js"
+  },
+  "keywords": [],
+  "author": "iuwqyir <[toomas@blocktorch.xyz](mailto:toomas@blocktorch.xyz)>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "pkgRoot": "."
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "open": "^10.1.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.2.0",
+    "@commitlint/config-conventional": "^19.1.0",
+    "@semantic-release/commit-analyzer": "^12.0.0",
+    "@semantic-release/git": "^10.0.1",
+    "husky": "^9.0.11",
+    "semantic-release": "^23.0.4"
+  }
+}
