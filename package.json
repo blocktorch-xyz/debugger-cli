@@ -15,7 +15,7 @@
     "prepare": "husky"
   },
   "bin": {
-    "blocktorch": "./index.js"
+    "blocktorch": "./dist/index.js"
   },
   "keywords": [],
   "author": "iuwqyir <[toomas@blocktorch.xyz](mailto:toomas@blocktorch.xyz)>",
