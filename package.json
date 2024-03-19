@@ -9,7 +9,7 @@
     "prepare": "husky"
   },
   "bin": {
-    "bt-debug": "./index.js"
+    "blocktorch": "./index.js"
   },
   "keywords": [],
   "author": "iuwqyir <[toomas@blocktorch.xyz](mailto:toomas@blocktorch.xyz)>",
